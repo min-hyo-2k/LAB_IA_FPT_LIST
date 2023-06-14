@@ -6,4 +6,4 @@ https://github.com/min-hyo-2k/WEB_LAB_IA_FPTU_1
 
 https://youtu.be/UahyZ6zfU_M
 
-##
+## BIG Project 1 - Secure aws account by fix misconfig and create a recommend infastructure 
